@@ -10,7 +10,7 @@ base:
   id: org.deepin.base/23.0.0
 
 depends:
-  - id: qtbase/5.11.3.15
+  - id: qtbase/5.15
 
 source:
   kind: git
